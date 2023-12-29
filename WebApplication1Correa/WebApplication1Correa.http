@@ -1,0 +1,6 @@
+@WebApplication1Correa_HostAddress = http://localhost:5080
+
+GET {{WebApplication1Correa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
