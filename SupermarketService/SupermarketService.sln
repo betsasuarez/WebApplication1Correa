@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SupermarketService", ".", "{844D9A86-79C1-45EB-AB50-59D5367C7D4C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64203"
+		Debug.AspNetCompiler.PhysicalPath = "..\SupermarketService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64203\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64203"
+		Release.AspNetCompiler.PhysicalPath = "..\SupermarketService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64203\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64203"
+		SlnRelativePath = "..\SupermarketService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844D9A86-79C1-45EB-AB50-59D5367C7D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844D9A86-79C1-45EB-AB50-59D5367C7D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD032BB-FEE3-4E50-B767-BBC5A6B24352}
+	EndGlobalSection
+EndGlobal
